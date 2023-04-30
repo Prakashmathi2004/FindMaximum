@@ -40,7 +40,6 @@ def max_marks(marks):
 iii) # To find the maximum marks without using builtin functions.
 ```
 ''' 
-Program to the maximum marks without using builtin functions.
 Developed by:M.PRAKASH 
 RegisterNumber: 212222100035
 '''
